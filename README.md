@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guilhem-Fouilhe
-- 👀 I’m interested in Mathematics, Machine learning, AI, Computer Science
+- 👀 I’m interested in Mathematics, Machine learning, AI, Computer Science, neurosciences
 - 📫 How to reach me : guilhem.fouilhe-lafforgue@univ-tlse3.fr
 
 <!---
